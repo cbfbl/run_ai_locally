@@ -38,7 +38,7 @@ Use the site to determine which AI models are supported by your system hardware 
 ollama pull <model>
 ```
 
-## 4. Run a Model Locally
+## 5. Run a Model Locally
 
 Change the model and prompt in main.py and run the script
 
