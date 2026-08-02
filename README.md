@@ -1,9 +1,15 @@
-## 1. Install UV (python environment manager)
+## 1. Git clone this repository
+
+```
+git clone https://github.com/cbfbl/run_ai_locally.git
+```
+
+## 2. Install UV (python environment manager)
 
 Download and install UV from the offical website
 
 #### Windows
-```bash
+```powershell
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 #### Mac and Linux
@@ -15,7 +21,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 Download and install Ollama from the official website:
 
-- https://ollama.com
+https://ollama.com
 
 Follow the installation instructions for your operating system.
 
