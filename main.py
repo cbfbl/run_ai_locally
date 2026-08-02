@@ -9,7 +9,7 @@ PROMPT = "Why is the sky blue?"
 
 def main():
 
-    response: ChatResponse = chat(model='deepseek-r1:1.5b', messages=[
+    response: ChatResponse = chat(model=AI_MODEL, messages=[
     {
         'role': 'user',
         'content': PROMPT,
