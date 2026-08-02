@@ -27,7 +27,7 @@ Follow the installation instructions for your operating system.
 
 ## 3. Check Which Models Your System Supports
 
-goto https://www.caniran.ai
+goto https://www.canirun.ai
 
 Use the site to determine which AI models are supported by your system hardware before downloading or running a model.
 
