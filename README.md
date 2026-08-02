@@ -31,6 +31,13 @@ goto https://www.canirun.ai
 
 Use the site to determine which AI models are supported by your system hardware before downloading or running a model.
 
+
+## 4. Download the relevant model
+
+```bash
+ollama pull <model>
+```
+
 ## 4. Run a Model Locally
 
 Change the model and prompt in main.py and run the script
